@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<testsuite name="Chrome Headless 98.0.4758.102 (Windows 10)" package="" timestamp="2022-02-24T00:47:35" id="0" hostname="NT-12112" tests="4" errors="0" failures="0" time="0.018">
+  <properties>
+    <property name="browser.fullName" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/98.0.4758.102 Safari/537.36"/>
+  </properties>
+  <testcase name="UniqueIdService #getNumberOfGeneratedUniqueIds&#xA;    should throw when called with empty" time="0.002" classname="Chrome_Headless_98_0_4758_102_(Windows_10).UniqueIdService"/>
+  <testcase name="UniqueIdService #generateUniqueIdWithPrefix&#xA;    should not generate duplicate ids when called multiple times" time="0.006" classname="Chrome_Headless_98_0_4758_102_(Windows_10).UniqueIdService"/>
+  <testcase name="UniqueIdService #getNumberOfGeneratedUniqueIds&#xA;    should return the number of the generatedIds when called" time="0.008" classname="Chrome_Headless_98_0_4758_102_(Windows_10).UniqueIdService"/>
+  <testcase name="UniqueIdService #generateUniqueIdWithPrefix&#xA;    should generate id when called with prefix" time="0.002" classname="Chrome_Headless_98_0_4758_102_(Windows_10).UniqueIdService"/>
+  <system-out>
+    <![CDATA[
+]]>
+  </system-out>
+  <system-err/>
+</testsuite>
