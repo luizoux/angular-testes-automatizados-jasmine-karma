@@ -1,6 +1,5 @@
-Angular: Testes automatizados com Jasmine e Karma
-https://cursos.alura.
-com.br/course/angular-testes-automatizados-jasmin-karma
+### Angular: Testes automatizados com Jasmine e Karma
+🔗 [Link do curso](https://cursos.alura.com.br/course/angular-testes-automatizados-jasmin-karma).
 
 * O papel do Jasmine como framework de testes;
 * O papel do Karma como executor de testes;
